@@ -1,0 +1,684 @@
+Incident Type;Hazards;Hazard Paths;Origins;Date
+border rejection;bupirimate;pesticides > bupirimate;china;15-7-2025
+border rejection;bupirimate;pesticides > bupirimate;china;8-7-2025
+border rejection;e 955 sucralose;e 955 sucralose;china;8-7-2025
+border rejection;bifenazate;pesticides > bifenazate;egypt;4-7-2025
+border rejection;tebuconazole;pesticides > triazole > tebuconazole;morocco;25-6-2025
+alert;tolfenpyrad;pesticides > pyrazole > tolfenpyrad;china;23-6-2025
+border rejection;pesticides;pesticides;morocco;23-6-2025
+alert;pesticides;pesticides;france;20-6-2025
+border rejection;chlorpyrifos;pesticides > organophosphate > chlorpyrifos;chile;18-6-2025
+alert;formetanate;pesticides > formamidine > formetanate;serbia;2-6-2025
+alert;etoxazole;pesticides > etoxazole;spain;22-5-2025
+border rejection;pesticides;pesticides;china;12-5-2025
+alert;oxamyl;pesticides > carbamate > oxamyl;egypt;8-5-2025
+border rejection;pesticides;pesticides;peru;7-5-2025
+border rejection;tebuconazole;pesticides > triazole > tebuconazole;mexico;21-4-2025
+border rejection;penconazole;pesticides > penconazole;chile;9-4-2025
+border rejection;fenticonazole;pesticides > fenticonazole;chile;9-4-2025
+border rejection;chlorpyrifos, penconazole;pesticides > organophosphate > chlorpyrifos, pesticides > penconazole;chile;9-4-2025
+border rejection;spirodiclofen;pesticides > spirodiclofen;chile;4-4-2025
+border rejection;pesticides, acrinathrin;pesticides, pesticides > pyrethroid > acrinathrin;japan;31-3-2025
+border rejection;acephate;pesticides > organophosphate > acephate;china;25-3-2025
+border rejection;pesticides;pesticides;mexico;20-3-2025
+border rejection;spirodiclofen, penconazole;pesticides > spirodiclofen, pesticides > penconazole;chile;17-3-2025
+border rejection;oxamyl, propamocarb;pesticides > carbamate > oxamyl, pesticides > propamocarb;egypt;26-2-2025
+border rejection;propargite;pesticides > sulphite ester > propargite;mexico;21-2-2025
+border rejection;bupirimate;pesticides > bupirimate;china;20-2-2025
+border rejection;mepanipyrim;pesticides > mepanipyrim;japan;14-2-2025
+border rejection;sulphur dioxide;adulteration (ema) > addition > enhancers/neutralizers > sulphur dioxide;china;10-2-2025
+border rejection;penconazole;pesticides > penconazole;chile;10-2-2025
+border rejection;cypermethrin;pesticides > pyrethroid > cypermethrin;japan;10-2-2025
+border rejection;fosthiazate;pesticides > organophosphate > fosthiazate;japan;10-2-2025
+border rejection;lufenuron, procymidone, bupirimate;pesticides > benzoylurea > lufenuron, pesticides > dicarboximide > procymidone, pesticides > bupirimate;china;13-1-2025
+border rejection;imidacloprid;pesticides > neonicotinoid > imidacloprid;egypt;2-1-2025
+border rejection;pesticides;pesticides;japan;28-12-2024
+border rejection;oxamyl;pesticides > carbamate > oxamyl;egypt;27-12-2024
+border rejection;pesticides;pesticides;south korea;27-12-2024
+border rejection;pesticides;pesticides;japan;23-12-2024
+alert;oxamyl;pesticides > carbamate > oxamyl;egypt;18-12-2024
+border rejection;pesticides;pesticides;chile;11-12-2024
+border rejection;improper import declaration;smuggling > improper import declaration;united states;9-12-2024
+alert;oxamyl;pesticides > carbamate > oxamyl;france;5-12-2024
+border rejection;pesticides;pesticides;mexico;23-10-2024
+border rejection;pesticides;pesticides;mexico;23-10-2024
+border rejection;pesticides;pesticides;mexico;23-10-2024
+border rejection;pesticides;pesticides;chile;9-10-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+alert;high content of lead;heavy metals > high content of lead;united states;12-9-2024
+border rejection;pesticides;pesticides;canada;4-9-2024
+border rejection;penconazole;pesticides > penconazole;chile;23-8-2024
+border rejection;pesticides;pesticides;canada;22-8-2024
+border rejection;pesticides;pesticides;canada;22-8-2024
+border rejection;pesticides;pesticides;canada;22-8-2024
+border rejection;pesticides;pesticides;canada;22-8-2024
+border rejection;pesticides;pesticides;chile;14-8-2024
+border rejection;pesticides;pesticides;mexico;26-7-2024
+border rejection;propargite;pesticides > sulphite ester > propargite;mexico;23-7-2024
+border rejection;oxamyl;pesticides > carbamate > oxamyl;egypt;17-7-2024
+border rejection;tolfenpyrad, bupirimate;pesticides > pyrazole > tolfenpyrad, pesticides > bupirimate;china;9-7-2024
+alert;glass fragment;glass fragment;netherlands;27-6-2024
+alert;glass fragment;glass fragment;netherlands;27-6-2024
+alert;glass fragment;glass fragment;netherlands;27-6-2024
+alert;pesticides;pesticides;netherlands;19-6-2024
+border rejection;omethoate;pesticides > organophosphate > omethoate;china;18-6-2024
+border rejection;bupirimate;pesticides > bupirimate;netherlands;12-6-2024
+border rejection;pesticides;pesticides;mexico;11-6-2024
+border rejection;pesticides;pesticides;mexico;11-6-2024
+border rejection;pesticides;pesticides;mexico;11-6-2024
+border rejection;profenofos, propargite;pesticides > organophosphate > profenofos, pesticides > sulphite ester > propargite;mexico;21-5-2024
+border rejection;pesticides;pesticides;mexico;9-5-2024
+border rejection;pesticides;pesticides;mexico;9-5-2024
+border rejection;pesticides;pesticides;mexico;22-4-2024
+border rejection;pesticides;pesticides;mexico;22-4-2024
+border rejection;pesticides;pesticides;mexico;18-4-2024
+border rejection;pesticides;pesticides;mexico;18-4-2024
+border rejection;pesticides;pesticides;mexico;18-4-2024
+border rejection;pesticides;pesticides;mexico;18-4-2024
+alert;pesticides;pesticides;japan;17-4-2024
+border rejection;pesticides;pesticides;china;28-3-2024
+border rejection;spirodiclofen;pesticides > spirodiclofen;mexico;18-3-2024
+border rejection;monocrotophos;pesticides > organophosphate > monocrotophos;mexico;18-3-2024
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;morocco;15-3-2024
+border rejection;pesticides;pesticides;japan;14-3-2024
+border rejection;pesticides;pesticides;mexico;7-3-2024
+border rejection;pesticides;pesticides;mexico;7-3-2024
+border rejection;pesticides;pesticides;mexico;7-3-2024
+border rejection;pesticides;pesticides;canada;29-2-2024
+border rejection;permethrin;pesticides > pyrethroid > permethrin;mexico;28-2-2024
+border rejection;pesticides;pesticides;mexico;23-2-2024
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;china;21-2-2024
+border rejection;pesticides;pesticides;japan;19-2-2024
+border rejection;pesticides;pesticides;japan;19-2-2024
+border rejection;pesticides;pesticides;canada;13-2-2024
+border rejection;pesticides;pesticides;japan;4-2-2024
+border rejection;pesticides;pesticides;japan;3-2-2024
+border rejection;pesticides;pesticides;japan;30-1-2024
+border rejection;pesticides;pesticides;japan;30-1-2024
+border rejection;pesticides;pesticides;japan;27-1-2024
+border rejection;pesticides;pesticides;japan;25-1-2024
+border rejection;pesticides;pesticides;japan;23-1-2024
+border rejection;pesticides;pesticides;japan;23-1-2024
+border rejection;pesticides;pesticides;japan;23-1-2024
+border rejection;pesticides;pesticides;japan;23-1-2024
+border rejection;pesticides;pesticides;canada;22-1-2024
+border rejection;pesticides;pesticides;japan;22-1-2024
+border rejection;pesticides;pesticides;canada;22-1-2024
+border rejection;pesticides;pesticides;japan;20-1-2024
+border rejection;chlorpyrifos, chlorfenapyr, propargite;pesticides > organophosphate > chlorpyrifos, pesticides > pyrrole > chlorfenapyr, pesticides > sulphite ester > propargite;canada;18-1-2024
+border rejection;chlorfenapyr, propargite;pesticides > pyrrole > chlorfenapyr, pesticides > sulphite ester > propargite;canada;18-1-2024
+border rejection;pesticides;pesticides;japan;17-1-2024
+border rejection;dichlorvos;pesticides > organophosphate > dichlorvos;china;16-1-2024
+border rejection;pesticides;pesticides;japan;13-1-2024
+border rejection;dichlorvos, isoprocarb;pesticides > organophosphate > dichlorvos, pesticides > carbamate > isoprocarb;china;8-1-2024
+border rejection;dichlorvos, isoprocarb;pesticides > organophosphate > dichlorvos, pesticides > carbamate > isoprocarb;china;8-1-2024
+border rejection;pesticides;pesticides;chile;5-1-2024
+border rejection;pesticides;pesticides;chile;5-1-2024
+border rejection;penconazole;pesticides > penconazole;chile;3-1-2024
+border rejection;pesticides;pesticides;china;2-1-2024
+border rejection;unauthorised use of colour e 102 - tartrazine;unauthorised use of colour e 102 - tartrazine;china;2-1-2024
+border rejection;pesticides;pesticides;japan;30-12-2023
+border rejection;pesticides;pesticides;japan;29-12-2023
+border rejection;pesticides;pesticides;japan;29-12-2023
+border rejection;radiation;radiation;china;27-12-2023
+border rejection;pesticides;pesticides;japan;22-12-2023
+border rejection;pesticides;pesticides;japan;21-12-2023
+border rejection;pesticides;pesticides;japan;19-12-2023
+border rejection;pesticides;pesticides;japan;19-12-2023
+border rejection;pesticides;pesticides;japan;18-12-2023
+border rejection;pesticides;pesticides;south korea;14-12-2023
+border rejection;pesticides;pesticides;japan;13-12-2023
+border rejection;pesticides;pesticides;japan;13-12-2023
+alert;dimethoate, omethoate;pesticides > organophosphate > dimethoate, pesticides > organophosphate > omethoate;egypt;13-12-2023
+border rejection;pesticides;pesticides;japan;12-12-2023
+border rejection;pesticides;pesticides;japan;6-12-2023
+alert;dimethoate, imidacloprid;pesticides > organophosphate > dimethoate, pesticides > neonicotinoid > imidacloprid;egypt;4-12-2023
+border rejection;pesticides;pesticides;japan;2-12-2023
+border rejection;pesticides;pesticides;japan;2-12-2023
+border rejection;pesticides;pesticides;canada;1-12-2023
+border rejection;pesticides;pesticides;canada;1-12-2023
+border rejection;pesticides;pesticides;canada;1-12-2023
+alert;spinosad;spinosad;germany;27-11-2023
+alert;methomyl;pesticides > carbamate > methomyl;egypt;23-11-2023
+border rejection;pesticides;pesticides;turkey;9-11-2023
+border rejection;pesticides;pesticides;turkey;9-11-2023
+border rejection;penconazole, thiacloprid, kresoxim-methyl, profenofos;pesticides > penconazole, pesticides > neonicotinoid > thiacloprid, pesticides > kresoxim-methyl, pesticides > organophosphate > profenofos;turkey;12-10-2023
+border rejection;penconazole, thiacloprid, kresoxim-methyl, profenofos;pesticides > penconazole, pesticides > neonicotinoid > thiacloprid, pesticides > kresoxim-methyl, pesticides > organophosphate > profenofos;turkey;12-10-2023
+border rejection;pesticides;pesticides;canada;18-9-2023
+border rejection;pesticides;pesticides;canada;13-9-2023
+border rejection;pesticides;pesticides;canada;13-9-2023
+border rejection;pesticides;pesticides;canada;13-9-2023
+border rejection;pesticides;pesticides;canada;16-8-2023
+border rejection;pesticides;pesticides;canada;16-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+border rejection;pesticides;pesticides;turkey;9-8-2023
+alert;lambda-cyhalothrin;pesticides > pyrethroid > lambda-cyhalothrin;france;28-7-2023
+border rejection;pesticides;pesticides;canada;24-7-2023
+border rejection;pesticides;pesticides;canada;24-7-2023
+border rejection;pesticides;pesticides;canada;24-7-2023
+border rejection;pesticides;pesticides;canada;21-7-2023
+border rejection;pesticides;pesticides;canada;21-7-2023
+border rejection;pesticides;pesticides;canada;19-7-2023
+alert;milk and products thereof;milk and products thereof;united states;18-7-2023
+border rejection;pesticides;pesticides;mexico;12-7-2023
+border rejection;profenofos;pesticides > organophosphate > profenofos;mexico;10-7-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;7-7-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;13-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;13-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;13-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;13-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;13-6-2023
+border rejection;pesticides;pesticides;canada;12-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;9-6-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;9-6-2023
+border rejection;pesticides;pesticides;guatemala;6-6-2023
+border rejection;dimethoate;pesticides > organophosphate > dimethoate;china;31-5-2023
+alert;tolfenpyrad;pesticides > pyrazole > tolfenpyrad;japan;26-5-2023
+border rejection;pesticides;pesticides;canada;24-5-2023
+border rejection;pesticides;pesticides;canada;24-5-2023
+border rejection;misbranding, incorrect labeling, labelling/misdescription;labelling/misdescription > misbranding, labelling/misdescription > incorrect labeling, labelling/misdescription;mexico;22-5-2023
+alert;tebuconazole;pesticides > triazole > tebuconazole;japan;16-5-2023
+border rejection;pesticides;pesticides;canada;12-5-2023
+border rejection;misbranding;labelling/misdescription > misbranding;canada;12-5-2023
+border rejection;oxamyl;pesticides > carbamate > oxamyl;egypt;12-5-2023
+border rejection;pesticides;pesticides;canada;28-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;mexico;10-4-2023
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;10-4-2023
+border rejection;pesticides;pesticides;mexico;7-4-2023
+alert;hepatitis a, foodborne outbreak;pathogen > virus > enteric viruses > enteroviruses > hepatitis a, foodborne outbreak;united states;17-3-2023
+alert;hepatitis a, foodborne outbreak;pathogen > virus > enteric viruses > enteroviruses > hepatitis a, foodborne outbreak;united states;17-3-2023
+alert;hepatitis a, foodborne outbreak;pathogen > virus > enteric viruses > enteroviruses > hepatitis a, foodborne outbreak;united states;16-3-2023
+alert;norovirus;pathogen > virus > enteric viruses > norovirus;egypt;21-12-2022
+border rejection;bupirimate;pesticides > bupirimate;netherlands;15-11-2022
+border rejection;chlorate;pesticides > inorganic compound > chlorate;morocco;9-11-2022
+border rejection;benzoic acid;chemical compound (high content) > benzoic acid;vietnam;21-10-2022
+border rejection;metalaxyl;pesticides > phenylamide > metalaxyl;peru;4-10-2022
+alert;ametoctradin, chlorpyrifos;pesticides > ametoctradin, pesticides > organophosphate > chlorpyrifos;serbia;3-10-2022
+border rejection;non-compliance to standards;poor or insufficient controls > non-compliance to standards;china;1-8-2022
+border rejection;dichlorvos;pesticides > organophosphate > dichlorvos;china;20-7-2022
+border rejection;omethoate;pesticides > organophosphate > omethoate;china;19-7-2022
+border rejection;dimethoate, famoxadone, bromopropylate, haloxyfop;pesticides > organophosphate > dimethoate, pesticides > oxazole > famoxadone, pesticides > benzilate > bromopropylate, pesticides > haloxyfop;iran;4-7-2022
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;united states;5-6-2022
+border rejection;pesticides;pesticides;mexico;4-5-2022
+border rejection;methomyl, monocrotophos, methamidophos;pesticides > carbamate > methomyl, pesticides > organophosphate > monocrotophos, pesticides > organophosphate > methamidophos;mexico;26-4-2022
+border rejection;pesticides;pesticides;mexico;11-4-2022
+alert;sulphates/sulphites;adulteration (ema) > addition > enhancers/neutralizers > sulphates/sulphites;united states;31-3-2022
+border rejection;pesticides;pesticides;peru;28-3-2022
+border rejection;pesticides;pesticides;peru;28-3-2022
+border rejection;pesticides;pesticides;peru;28-3-2022
+border rejection;methomyl, chlorfenapyr;pesticides > carbamate > methomyl, pesticides > pyrrole > chlorfenapyr;peru;11-3-2022
+border rejection;chlorfenapyr, methomyl;pesticides > pyrrole > chlorfenapyr, pesticides > carbamate > methomyl;peru;11-3-2022
+border rejection;penconazole;pesticides > penconazole;chile;25-2-2022
+border rejection;pesticides;pesticides;chile;17-2-2022
+border rejection;pesticides;pesticides;chile;17-2-2022
+border rejection;pesticides;pesticides;chile;17-2-2022
+alert;etoxazole;pesticides > etoxazole;united states;16-2-2022
+border rejection;carbaryl;pesticides > carbamate > carbaryl;new zealand;22-12-2021
+border rejection;iprodione, procymidone;pesticides > dicarboximide > iprodione, pesticides > dicarboximide > procymidone;china;2-9-2021
+border rejection;tebuconazole;pesticides > triazole > tebuconazole;albania;30-4-2021
+border rejection;pesticides;pesticides;mexico;14-4-2021
+border rejection;pesticides;pesticides;mexico;5-4-2021
+border rejection;penconazole;pesticides > penconazole;chile;25-3-2021
+border rejection;pesticides;pesticides;mexico;23-3-2021
+border rejection;methamidophos, propargite;pesticides > organophosphate > methamidophos, pesticides > sulphite ester > propargite;mexico;22-3-2021
+border rejection;propargite, methamidophos;pesticides > sulphite ester > propargite, pesticides > organophosphate > methamidophos;mexico;22-3-2021
+border rejection;pesticides;pesticides;chile;18-3-2021
+border rejection;pesticides;pesticides;chile;18-3-2021
+border rejection;pesticides;pesticides;poland;28-1-2021
+border rejection;pesticides;pesticides;poland;28-1-2021
+border rejection;pesticides;pesticides;mexico;29-9-2020
+border rejection;pesticides;pesticides;chile;14-5-2020
+border rejection;pesticides;pesticides;chile;14-5-2020
+border rejection;pesticides;pesticides;chile;13-5-2020
+border rejection;pesticides;pesticides;chile;13-5-2020
+border rejection;pesticides;pesticides;chile;29-4-2020
+border rejection;pesticides;pesticides;chile;29-4-2020
+border rejection;pesticides;pesticides;chile;28-4-2020
+border rejection;pesticides;pesticides;chile;28-4-2020
+border rejection;pesticides;pesticides;chile;25-4-2020
+border rejection;pesticides;pesticides;chile;25-4-2020
+border rejection;pesticides;pesticides;chile;24-4-2020
+border rejection;pesticides;pesticides;chile;24-4-2020
+border rejection;pesticides;pesticides;chile;23-4-2020
+border rejection;pesticides;pesticides;chile;23-4-2020
+border rejection;pesticides;pesticides;mexico;12-3-2020
+border rejection;pesticides;pesticides;chile;9-3-2020
+border rejection;profenofos, propargite, methamidophos;pesticides > organophosphate > profenofos, pesticides > sulphite ester > propargite, pesticides > organophosphate > methamidophos;mexico;4-3-2020
+border rejection;methomyl;pesticides > carbamate > methomyl;chile;26-2-2020
+border rejection;unauthorised colour, pesticides, unauthorised ingredient (fraud);unauthorised colour, pesticides, unauthorised ingredient (fraud);mexico;18-2-2020
+border rejection;pesticides;pesticides;egypt;18-2-2020
+border rejection;propargite;pesticides > sulphite ester > propargite;egypt;4-2-2020
+border rejection;propargite;pesticides > sulphite ester > propargite;egypt;4-2-2020
+border rejection;radiation;radiation;china;27-12-2019
+border rejection;coliforms;non-pathogenic microorganisms > coliforms;united states;21-11-2019
+border rejection;unauthorised colour, unauthorised ingredient (fraud);unauthorised colour, unauthorised ingredient (fraud);china;13-11-2019
+border rejection;paclobutrazol, isoprocarb, bupirimate;pesticides > paclobutrazol, pesticides > carbamate > isoprocarb, pesticides > bupirimate;china;4-10-2019
+border rejection;bupirimate, isoprocarb, paclobutrazol;pesticides > bupirimate, pesticides > carbamate > isoprocarb, pesticides > paclobutrazol;china;4-10-2019
+alert;norovirus;pathogen > virus > enteric viruses > norovirus;canada;5-7-2019
+border rejection;profenofos, propargite;pesticides > organophosphate > profenofos, pesticides > sulphite ester > propargite;mexico;20-6-2019
+border rejection;coliforms;non-pathogenic microorganisms > coliforms;south korea;17-6-2019
+border rejection;methomyl, monocrotophos, methamidophos;pesticides > carbamate > methomyl, pesticides > organophosphate > monocrotophos, pesticides > organophosphate > methamidophos;mexico;31-5-2019
+alert;norovirus;pathogen > virus > enteric viruses > norovirus;united states;12-4-2019
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;28-3-2019
+border rejection;pesticides;pesticides;mexico;8-3-2019
+border rejection;propamocarb;pesticides > propamocarb;egypt;5-2-2019
+border rejection;pesticides;pesticides;egypt;29-1-2019
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;26-11-2018
+food;dichlorvos;pesticides > organophosphate > dichlorvos;belgium;12-10-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;2-10-2018
+border rejection;ethion;pesticides > organophosphate > ethion;egypt;25-9-2018
+border rejection;ethion;pesticides > organophosphate > ethion;egypt;25-9-2018
+alert;metal pieces;metal fragment > metal pieces;australia;17-9-2018
+border rejection;methanol;methanol;mexico;30-8-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;29-8-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;22-8-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;10-8-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;10-8-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;10-8-2018
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;26-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;25-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;25-7-2018
+border rejection;methamidophos, pirimiphos-methyl;pesticides > organophosphate > methamidophos, pesticides > organophosphate > pirimiphos-methyl;guatemala;24-7-2018
+border rejection;methamidophos, pirimiphos-methyl;pesticides > organophosphate > methamidophos, pesticides > organophosphate > pirimiphos-methyl;guatemala;24-7-2018
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;20-7-2018
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;20-7-2018
+border rejection;paclobutrazol;pesticides > paclobutrazol;china;19-7-2018
+border rejection;methiocarb;pesticides > carbamate > methiocarb;morocco;16-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;12-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;12-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;11-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;9-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;9-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;6-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;5-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;5-7-2018
+border rejection;procymidone;pesticides > dicarboximide > procymidone;morocco;3-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;3-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;peru;3-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;3-7-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;3-7-2018
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;3-7-2018
+food;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;poland;28-6-2018
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;28-6-2018
+food;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;12-6-2018
+alert;poor temperature control;poor or insufficient controls > improper conditions > poor temperature control;united states;3-5-2018
+alert;salmonella;pathogen > pathogenic bacteria > salmonella;canada;20-4-2018
+alert;hepatitis a, foodborne outbreak;pathogen > virus > enteric viruses > enteroviruses > hepatitis a, foodborne outbreak;canada;14-4-2018
+food;norovirus;pathogen > virus > enteric viruses > norovirus;egypt;30-3-2018
+border rejection;pesticides;pesticides;guatemala;29-1-2018
+border rejection;pesticides;pesticides;turkey;11-12-2017
+border rejection;tebuconazole, penconazole, tebufenpyrad;pesticides > triazole > tebuconazole, pesticides > penconazole, pesticides > pyrazole > tebufenpyrad;turkey;1-12-2017
+border rejection;penconazole, tebufenpyrad, tebuconazole;pesticides > penconazole, pesticides > pyrazole > tebufenpyrad, pesticides > triazole > tebuconazole;turkey;1-12-2017
+food;methamidophos;pesticides > organophosphate > methamidophos;egypt;29-11-2017
+border rejection;prochloraz, profenofos;pesticides > imidazole > prochloraz, pesticides > organophosphate > profenofos;guatemala;24-11-2017
+alert;propamocarb;pesticides > propamocarb;czech republic;10-11-2017
+border rejection;missing required nutrition information;labelling/misdescription > insufficient labelling/documentation > missing required nutrition information;france;14-8-2017
+border rejection;missing required nutrition information;labelling/misdescription > insufficient labelling/documentation > missing required nutrition information;france;14-8-2017
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;3-5-2017
+food;norovirus;pathogen > virus > enteric viruses > norovirus;poland;26-4-2017
+border rejection;pesticides;pesticides;mexico;18-4-2017
+border rejection;methamidophos, monocrotophos, spirodiclofen;pesticides > organophosphate > methamidophos, pesticides > organophosphate > monocrotophos, pesticides > spirodiclofen;mexico;14-4-2017
+border rejection;monocrotophos, spirodiclofen, methamidophos;pesticides > organophosphate > monocrotophos, pesticides > spirodiclofen, pesticides > organophosphate > methamidophos;mexico;14-4-2017
+border rejection;monocrotophos, spirodiclofen, methamidophos;pesticides > organophosphate > monocrotophos, pesticides > spirodiclofen, pesticides > organophosphate > methamidophos;mexico;14-4-2017
+border rejection;dichlorvos;pesticides > organophosphate > dichlorvos;mexico;29-3-2017
+border rejection;dichlorvos;pesticides > organophosphate > dichlorvos;mexico;29-3-2017
+border rejection;pesticides;pesticides;mexico;28-3-2017
+border rejection;pesticides;pesticides;mexico;22-3-2017
+border rejection;pesticides;pesticides;mexico;22-2-2017
+border rejection;pesticides;pesticides;mexico;22-2-2017
+- major food product recall;milk and products thereof, soybeans and products thereof;milk and products thereof, soybeans and products thereof;united states;16-2-2017
+border rejection;pesticides;pesticides;mexico;3-2-2017
+border rejection;pesticides;pesticides;mexico;2-2-2017
+food;norovirus;pathogen > virus > enteric viruses > norovirus;poland;31-1-2017
+food;norovirus;pathogen > virus > enteric viruses > norovirus;belgium, poland, serbia;30-1-2017
+border rejection;pesticides;pesticides;mexico;27-1-2017
+border rejection;poor hygienic state;poor or insufficient controls > poor hygienic state;egypt;25-1-2017
+border rejection;poor hygienic state;poor or insufficient controls > poor hygienic state;egypt;24-1-2017
+border rejection;pesticides;pesticides;mexico;30-12-2016
+border rejection;pesticides;pesticides;mexico;14-12-2016
+border rejection;chlorothalonil, profenofos;pesticides > chlorothalonil, pesticides > organophosphate > profenofos;mexico;9-12-2016
+border rejection;chlorothalonil, profenofos;pesticides > chlorothalonil, pesticides > organophosphate > profenofos;mexico;9-12-2016
+border rejection;pesticides;pesticides;mexico;7-12-2016
+food;methomyl, oxamyl, dimethoate;pesticides > carbamate > methomyl, pesticides > carbamate > oxamyl, pesticides > organophosphate > dimethoate;egypt;30-11-2016
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;29-11-2016
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;29-11-2016
+border rejection;pesticides;pesticides;china;17-11-2016
+border rejection;pesticides;pesticides;mexico;7-11-2016
+border rejection;propamocarb;pesticides > propamocarb;mexico;31-10-2016
+border rejection;propamocarb;pesticides > propamocarb;mexico;31-10-2016
+border rejection;poor hygienic state;poor or insufficient controls > poor hygienic state;egypt;28-10-2016
+border rejection;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;19-10-2016
+border rejection;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;19-10-2016
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;27-9-2016
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;27-9-2016
+alert;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;egypt;27-9-2016
+border rejection;pesticides;pesticides;mexico;26-9-2016
+border rejection;profenofos;pesticides > organophosphate > profenofos;mexico;13-9-2016
+border rejection;profenofos;pesticides > organophosphate > profenofos;mexico;13-9-2016
+border rejection;incorrect labeling, pesticides;labelling/misdescription > incorrect labeling, pesticides;mexico;26-8-2016
+border rejection;pesticides;pesticides;mexico;26-8-2016
+border rejection;pesticides;pesticides;mexico;19-8-2016
+border rejection;pesticides;pesticides;mexico;16-8-2016
+border rejection;pesticides;pesticides;chile;2-8-2016
+border rejection;penconazole;pesticides > penconazole;chile;26-7-2016
+border rejection;penconazole;pesticides > penconazole;chile;26-7-2016
+border rejection;procymidone, phoxim;pesticides > dicarboximide > procymidone, pesticides > phoxim;china;18-7-2016
+border rejection;phoxim, procymidone;pesticides > phoxim, pesticides > dicarboximide > procymidone;china;18-7-2016
+border rejection;propamocarb;pesticides > propamocarb;mexico;14-7-2016
+border rejection;propamocarb;pesticides > propamocarb;mexico;14-7-2016
+border rejection;permethrin;pesticides > pyrethroid > permethrin;mexico;13-6-2016
+border rejection;pesticides;pesticides;mexico;9-6-2016
+border rejection;pesticides;pesticides;china;7-6-2016
+border rejection;pesticides;pesticides;mexico;1-6-2016
+border rejection;pesticides;pesticides;mexico;24-5-2016
+border rejection;pesticides;pesticides;mexico;20-5-2016
+border rejection;pesticides;pesticides;mexico;19-5-2016
+border rejection;pesticides;pesticides;mexico;12-5-2016
+border rejection;pesticides;pesticides;mexico;11-5-2016
+border rejection;pesticides;pesticides;mexico;3-5-2016
+alert;listeria monocytogenes;pathogen > pathogenic bacteria > listeria monocytogenes;united states;2-5-2016
+border rejection;pesticides;pesticides;mexico;29-4-2016
+border rejection;pesticides;pesticides;mexico;22-4-2016
+border rejection;pesticides;pesticides;mexico;22-4-2016
+border rejection;pesticides;pesticides;mexico;22-4-2016
+border rejection;pesticides;pesticides;mexico;20-4-2016
+border rejection;pesticides;pesticides;mexico;14-4-2016
+border rejection;pesticides;pesticides;mexico;22-3-2016
+alert;abnormal smell, taste disturbance;abnormal smell, taste disturbance;germany;9-3-2016
+border rejection;pesticides;pesticides;colombia;11-2-2016
+food;propargite;pesticides > sulphite ester > propargite;egypt;20-1-2016
+food;profenofos, methomyl;pesticides > organophosphate > profenofos, pesticides > carbamate > methomyl;egypt;18-1-2016
+border rejection;pesticides;pesticides;mexico;11-1-2016
+food;methomyl;pesticides > carbamate > methomyl;egypt;5-1-2016
+food;fipronil;pesticides > phenylpyrazole > fipronil;egypt;30-12-2015
+food;propamocarb, oxamyl, dimethoate, chlorpyrifos;pesticides > propamocarb, pesticides > carbamate > oxamyl, pesticides > organophosphate > dimethoate, pesticides > organophosphate > chlorpyrifos;egypt;23-12-2015
+food;norovirus;pathogen > virus > enteric viruses > norovirus;belgium, morocco;18-12-2015
+food;methomyl;pesticides > carbamate > methomyl;egypt;17-12-2015
+food;propamocarb;pesticides > propamocarb;egypt;11-12-2015
+food;pyridalyl, propamocarb;pesticides > pyridalyl, pesticides > propamocarb;egypt;4-12-2015
+food;methomyl;pesticides > carbamate > methomyl;egypt;4-12-2015
+border rejection;poor hygienic state;poor or insufficient controls > poor hygienic state;united states;12-11-2015
+border rejection;pesticides;pesticides;mexico;5-11-2015
+food;crustaceans and products thereof;crustaceans and products thereof;belgium, morocco;3-11-2015
+border rejection;pesticides;pesticides;colombia;21-10-2015
+border rejection;pesticides;pesticides;mexico;21-10-2015
+border rejection;pesticides;pesticides;colombia;21-10-2015
+food;propargite;pesticides > sulphite ester > propargite;egypt;19-10-2015
+border rejection;acephate, methamidophos;pesticides > organophosphate > acephate, pesticides > organophosphate > methamidophos;mexico;27-8-2015
+border rejection;acephate, methamidophos;pesticides > organophosphate > acephate, pesticides > organophosphate > methamidophos;mexico;27-8-2015
+border rejection;pesticides;pesticides;china;26-8-2015
+border rejection;pesticides;pesticides;china;26-8-2015
+border rejection;dimethoate, acephate, omethoate, methamidophos, permethrin;pesticides > organophosphate > dimethoate, pesticides > organophosphate > acephate, pesticides > organophosphate > omethoate, pesticides > organophosphate > methamidophos, pesticides > pyrethroid > permethrin;mexico;25-8-2015
+border rejection;methamidophos, omethoate, permethrin, dimethoate, acephate;pesticides > organophosphate > methamidophos, pesticides > organophosphate > omethoate, pesticides > pyrethroid > permethrin, pesticides > organophosphate > dimethoate, pesticides > organophosphate > acephate;mexico;25-8-2015
+border rejection;pesticides;pesticides;mexico;18-8-2015
+border rejection;propargite, methamidophos;pesticides > sulphite ester > propargite, pesticides > organophosphate > methamidophos;mexico;18-8-2015
+border rejection;fenazaquin, monocrotophos;pesticides > fenazaquin, pesticides > organophosphate > monocrotophos;mexico;21-7-2015
+border rejection;pesticides;pesticides;mexico;10-7-2015
+border rejection;pesticides;pesticides;mexico;8-7-2015
+border rejection;pesticides;pesticides;mexico;2-7-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;pesticides;pesticides;china;26-6-2015
+border rejection;acephate, methamidophos;pesticides > organophosphate > acephate, pesticides > organophosphate > methamidophos;mexico;25-6-2015
+border rejection;acephate, methamidophos;pesticides > organophosphate > acephate, pesticides > organophosphate > methamidophos;mexico;25-6-2015
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;17-6-2015
+food;norovirus;pathogen > virus > enteric viruses > norovirus;egypt;13-6-2015
+border rejection;pesticides;pesticides;mexico;26-5-2015
+border rejection;omethoate;pesticides > organophosphate > omethoate;mexico;21-5-2015
+border rejection;omethoate;pesticides > organophosphate > omethoate;mexico;21-5-2015
+alert;pesticides;pesticides;united states;19-5-2015
+border rejection;pesticides;pesticides;mexico;18-5-2015
+border rejection;pesticides;pesticides;mexico;8-5-2015
+alert;listeria monocytogenes, non-compliance to standards;pathogen > pathogenic bacteria > listeria monocytogenes, poor or insufficient controls > non-compliance to standards;united states;23-4-2015
+border rejection;fenazaquin;pesticides > fenazaquin;mexico;21-4-2015
+border rejection;fenazaquin;pesticides > fenazaquin;mexico;21-4-2015
+border rejection;pesticides;pesticides;peru;6-4-2015
+border rejection;pesticides;pesticides;peru;6-4-2015
+border rejection;pesticides;pesticides;mexico;5-3-2015
+food;propargite;pesticides > sulphite ester > propargite;egypt;19-2-2015
+border rejection;pesticides;pesticides;mexico;17-2-2015
+food;cyfluthrin;pesticides > pyrethroid > cyfluthrin;egypt;6-2-2015
+border rejection;pesticides;pesticides;china;20-1-2015
+border rejection;pesticides;pesticides;china;15-1-2015
+border rejection;pesticides;pesticides;china;15-1-2015
+border rejection;pesticides;pesticides;china;15-1-2015
+food;dinotefuran;pesticides > neonicotinoid > dinotefuran;egypt;13-1-2015
+border rejection;diethofencarb;pesticides > diethofencarb;china;13-1-2015
+border rejection;diethofencarb;pesticides > diethofencarb;china;13-1-2015
+food;profenofos;pesticides > organophosphate > profenofos;egypt;30-12-2014
+food;methomyl;pesticides > carbamate > methomyl;egypt;23-12-2014
+food;thiophanate-methyl;pesticides > benzimidazole > thiophanate-methyl;egypt;19-12-2014
+border rejection;propamocarb;pesticides > propamocarb;china;12-12-2014
+border rejection;propamocarb;pesticides > propamocarb;china;12-12-2014
+border rejection;pesticides;pesticides;china;11-12-2014
+- food;listeria monocytogenes;pathogen > pathogenic bacteria > listeria monocytogenes;united states;12-10-2014
+alert;listeria monocytogenes;pathogen > pathogenic bacteria > listeria monocytogenes;united states;10-10-2014
+border rejection;carbofuran, prochloraz, procymidone, chlorothalonil, bupirimate, diethofencarb, oxadixyl, tebuconazole, omethoate;pesticides > carbamate > carbofuran, pesticides > imidazole > prochloraz, pesticides > dicarboximide > procymidone, pesticides > chlorothalonil, pesticides > bupirimate, pesticides > diethofencarb, pesticides > oxadixyl, pesticides > triazole > tebuconazole, pesticides > organophosphate > omethoate;china;19-8-2014
+food;norovirus;pathogen > virus > enteric viruses > norovirus;china;8-8-2014
+border rejection;pesticides;pesticides;mexico;11-4-2014
+border rejection;pesticides;pesticides;mexico;11-4-2014
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;12-2-2014
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;10-2-2014
+border rejection;thiacloprid, bupirimate, propargite;pesticides > neonicotinoid > thiacloprid, pesticides > bupirimate, pesticides > sulphite ester > propargite;poland;6-2-2014
+border rejection;thiacloprid, bupirimate, propargite;pesticides > neonicotinoid > thiacloprid, pesticides > bupirimate, pesticides > sulphite ester > propargite;poland;6-2-2014
+food;propargite;pesticides > sulphite ester > propargite;egypt;4-2-2014
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;3-2-2014
+food;procymidone;pesticides > dicarboximide > procymidone;egypt;2-1-2014
+food;pyridalyl;pesticides > pyridalyl;egypt;2-1-2014
+food;pyridalyl;pesticides > pyridalyl;egypt;27-12-2013
+food;pyridalyl;pesticides > pyridalyl;egypt;10-12-2013
+border rejection;pesticides;pesticides;mexico;19-11-2013
+border rejection;pesticides;pesticides;mexico;15-11-2013
+border rejection;pesticides;pesticides;mexico;15-11-2013
+border rejection;pesticides;pesticides;mexico;12-9-2013
+border rejection;pesticides;pesticides;mexico;9-8-2013
+border rejection;pesticides;pesticides;mexico;8-8-2013
+border rejection;pesticides;pesticides;china;31-7-2013
+border rejection;chlorothalonil, famoxadone, monocrotophos, dimethomorph, methamidophos, trichlorfon, cypermethrin;pesticides > chlorothalonil, pesticides > oxazole > famoxadone, pesticides > organophosphate > monocrotophos, morpholine > dimethomorph, pesticides > organophosphate > methamidophos, pesticides > trichlorfon, pesticides > pyrethroid > cypermethrin;colombia;28-6-2013
+border rejection;methamidophos, dimethomorph, cypermethrin, chlorothalonil, trichlorfon, famoxadone, monocrotophos;pesticides > organophosphate > methamidophos, morpholine > dimethomorph, pesticides > pyrethroid > cypermethrin, pesticides > chlorothalonil, pesticides > trichlorfon, pesticides > oxazole > famoxadone, pesticides > organophosphate > monocrotophos;colombia;28-6-2013
+border rejection;cypermethrin, chlorothalonil, famoxadone, monocrotophos, methamidophos, trichlorfon, dimethomorph;pesticides > pyrethroid > cypermethrin, pesticides > chlorothalonil, pesticides > oxazole > famoxadone, pesticides > organophosphate > monocrotophos, pesticides > organophosphate > methamidophos, pesticides > trichlorfon, morpholine > dimethomorph;colombia;28-6-2013
+border rejection;monocrotophos, methamidophos, chlorothalonil, famoxadone, dimethomorph, trichlorfon, cypermethrin;pesticides > organophosphate > monocrotophos, pesticides > organophosphate > methamidophos, pesticides > chlorothalonil, pesticides > oxazole > famoxadone, morpholine > dimethomorph, pesticides > trichlorfon, pesticides > pyrethroid > cypermethrin;colombia;28-6-2013
+border rejection;propargite, dimethoate;pesticides > sulphite ester > propargite, pesticides > organophosphate > dimethoate;mexico;19-6-2013
+food;norovirus;pathogen > virus > enteric viruses > norovirus;china;7-5-2013
+food;ethion;pesticides > organophosphate > ethion;egypt;6-5-2013
+food;acephate, propargite;pesticides > organophosphate > acephate, pesticides > sulphite ester > propargite;egypt;23-4-2013
+food;dinotefuran;pesticides > neonicotinoid > dinotefuran;egypt;19-2-2013
+food;carbendazim;pesticides > benzimidazole > carbendazim;egypt;15-2-2013
+food;methomyl;pesticides > carbamate > methomyl;egypt;14-2-2013
+food;propargite, methomyl, thiophanate-methyl;pesticides > sulphite ester > propargite, pesticides > carbamate > methomyl, pesticides > benzimidazole > thiophanate-methyl;egypt;1-2-2013
+food;carbendazim;pesticides > benzimidazole > carbendazim;egypt;29-1-2013
+food;norovirus;pathogen > virus > enteric viruses > norovirus;china;28-1-2013
+food;carbendazim;pesticides > benzimidazole > carbendazim;egypt;25-1-2013
+food;methomyl;pesticides > carbamate > methomyl;egypt;23-1-2013
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;22-1-2013
+food;methomyl, propargite;pesticides > carbamate > methomyl, pesticides > sulphite ester > propargite;egypt;8-1-2013
+food;dimethoate, omethoate;pesticides > organophosphate > dimethoate, pesticides > organophosphate > omethoate;egypt;2-1-2013
+food;methomyl;pesticides > carbamate > methomyl;egypt;5-12-2012
+food;methomyl;pesticides > carbamate > methomyl;egypt;4-12-2012
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;26-11-2012
+food;hepatitis a;pathogen > virus > enteric viruses > enteroviruses > hepatitis a;china;6-11-2012
+border rejection;pesticides;pesticides;mexico;21-6-2012
+border rejection;pesticides;pesticides;mexico;30-5-2012
+food;methomyl;pesticides > carbamate > methomyl;morocco;20-4-2012
+border rejection;pesticides;pesticides;china;15-2-2012
+border rejection;adulteration (ema), appearance, particles, poisonous;adulteration (ema), appearance, other not classified hazards for foreign bodies > particles, pathogen > biotoxins (other) > poisonous;china;7-2-2012
+food;propargite;pesticides > sulphite ester > propargite;egypt;2-2-2012
+food;thiophanate-methyl;pesticides > benzimidazole > thiophanate-methyl;egypt;24-1-2012
+food;omethoate;pesticides > organophosphate > omethoate;china;24-1-2012
+food;thiophanate-methyl;pesticides > benzimidazole > thiophanate-methyl;egypt;18-1-2012
+border rejection;propamocarb;pesticides > propamocarb;china;17-1-2012
+food;propargite;pesticides > sulphite ester > propargite;egypt;13-1-2012
+food;methomyl;pesticides > carbamate > methomyl;egypt;19-12-2011
+border rejection;methomyl;pesticides > carbamate > methomyl;mexico;15-12-2011
+border rejection;methomyl;pesticides > carbamate > methomyl;mexico;15-12-2011
+border rejection;pesticides;pesticides;mexico;12-12-2011
+border rejection;pesticides;pesticides;china;29-11-2011
+border rejection;propiconazole;pesticides > triazole > propiconazole;united states;1-9-2011
+food;procymidone;pesticides > dicarboximide > procymidone;china;19-7-2011
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;7-6-2011
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;7-6-2011
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;25-4-2011
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;25-4-2011
+border rejection;pesticides;pesticides;poland;19-4-2011
+border rejection;pesticides;pesticides;china;12-4-2011
+food;oxamyl;pesticides > carbamate > oxamyl;egypt;14-1-2011
+border rejection;pesticides;pesticides;mexico;7-1-2011
+food;methomyl;pesticides > carbamate > methomyl;egypt;23-12-2010
+border rejection;pesticides;pesticides;mexico;21-12-2010
+border rejection;pesticides;pesticides;mexico;8-12-2010
+border rejection;pesticides;pesticides;china;17-11-2010
+border rejection;pesticides;pesticides;mexico;24-12-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;4-12-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;4-12-2009
+food;ethion;pesticides > organophosphate > ethion;egypt;12-10-2009
+border rejection;sweetener e 952 - cyclamate unauthorised;sweetener e 952 - cyclamate unauthorised;bulgaria;18-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;procymidone, pyrimethanil;pesticides > dicarboximide > procymidone, pesticides > anilinopyrimidine > pyrimethanil;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone, pyrimethanil, vinclozolin;pesticides > dicarboximide > procymidone, pesticides > anilinopyrimidine > pyrimethanil, pesticides > vinclozolin;china;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;pyrimethanil;pesticides > anilinopyrimidine > pyrimethanil;poland;16-9-2009
+border rejection;procymidone, topramezone;pesticides > dicarboximide > procymidone, pesticides > topramezone;poland;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;pyrimethanil;pesticides > anilinopyrimidine > pyrimethanil;poland;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;16-9-2009
+border rejection;pyrimethanil, procymidone;pesticides > anilinopyrimidine > pyrimethanil, pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;morocco;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;netherlands;16-9-2009
+border rejection;flusilazole;pesticides > triazole > flusilazole;china;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;pyrimethanil, procymidone;pesticides > anilinopyrimidine > pyrimethanil, pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;flusilazole;pesticides > triazole > flusilazole;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone, topramezone;pesticides > dicarboximide > procymidone, pesticides > topramezone;poland;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;peru;16-9-2009
+border rejection;methanol;methanol;mexico;16-9-2009
+border rejection;tolylfluanid, procymidone;pesticides > tolylfluanid, pesticides > dicarboximide > procymidone;netherlands;16-9-2009
+border rejection;diethofencarb, procymidone;pesticides > diethofencarb, pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;dichlofluanid;pesticides > dichlofluanid;poland;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;china;16-9-2009
+border rejection;vinclozolin, procymidone, pyrimethanil;pesticides > vinclozolin, pesticides > dicarboximide > procymidone, pesticides > anilinopyrimidine > pyrimethanil;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;colombia;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;morocco;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;morocco;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;omethoate;pesticides > organophosphate > omethoate;china;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone, diethofencarb;pesticides > dicarboximide > procymidone, pesticides > diethofencarb;china;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;morocco;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;poland;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;china;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;omethoate;pesticides > organophosphate > omethoate;china;16-9-2009
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;mexico;16-9-2009
+border rejection;procymidone;pesticides > dicarboximide > procymidone;colombia;16-9-2009
+border rejection;procymidone, tolylfluanid;pesticides > dicarboximide > procymidone, pesticides > tolylfluanid;poland;16-9-2009
+border rejection;pesticides;pesticides;china;21-8-2009
+border rejection;unclassified bacteria;other not classified biological hazards > unclassified bacteria;china;1-7-2009
+food;diazinon, thiabendazole;pesticides > organophosphate > diazinon, pesticides > benzimidazole > thiabendazole;turkey;30-4-2009
+food;ethion;pesticides > organophosphate > ethion;egypt;12-3-2009
+food;methomyl, thiophanate-methyl, carbendazim;pesticides > carbamate > methomyl, pesticides > benzimidazole > thiophanate-methyl, pesticides > benzimidazole > carbendazim;peru;5-12-2008
+border rejection;pesticides;pesticides;egypt;28-11-2008
+food;methomyl, thiophanate-methyl;pesticides > carbamate > methomyl, pesticides > benzimidazole > thiophanate-methyl;peru;28-11-2008
+border rejection;pesticides;pesticides;poland;6-10-2008
+border rejection;pesticides;pesticides;egypt;11-6-2008
+border rejection;pesticides;pesticides;south korea;3-4-2008
+food;moulds, poor state of preservation;non-pathogenic microorganisms > moulds, poor or insufficient controls > improper conditions > poor state of preservation;tunisia;27-2-2008
+border rejection;pesticides;pesticides;china;25-2-2008
+food;methomyl, cyprodinil, fludioxonil;pesticides > carbamate > methomyl, pesticides > cyprodinil, pesticides > fludioxonil;egypt;12-2-2008
+border rejection;misbranding, missing required nutrition information, incorrect labeling, labelling/misdescription;labelling/misdescription > misbranding, labelling/misdescription > insufficient labelling/documentation > missing required nutrition information, labelling/misdescription > incorrect labeling, labelling/misdescription;mexico;5-2-2008
+border rejection;incorrect labeling, misdescription, insufficient labelling/documentation;labelling/misdescription > incorrect labeling, labelling/misdescription > misdescription, labelling/misdescription > insufficient labelling/documentation;germany;9-8-2007
+border rejection;pesticides;pesticides;china;21-6-2007
+food;carbendazim;pesticides > benzimidazole > carbendazim;czech republic, france, morocco;2-4-2007
+food;yeasts;non-pathogenic microorganisms > yeasts;denmark;28-11-2006
+border rejection;methamidophos;pesticides > organophosphate > methamidophos;china;1-9-2006
+border rejection;pesticides;pesticides;canada;20-7-2006
+border rejection;pesticides;pesticides;mexico;21-4-2006
+border rejection;pesticides;pesticides;colombia;11-10-2005
+border rejection;pesticides;pesticides;canada;5-8-2005
+border rejection;pesticides;pesticides;chile;30-12-2004
+border rejection;pesticides;pesticides;china;21-12-2004
+border rejection;pesticides;pesticides;china;30-11-2004
+border rejection;pesticides;pesticides;colombia;10-9-2004
+border rejection;pesticides;pesticides;china;2-8-2004
+border rejection;pesticides;pesticides;mexico;15-4-2004
+border rejection;pesticides;pesticides;peru;24-3-2004
+border rejection;non-compliance to standards;poor or insufficient controls > non-compliance to standards;china;24-3-2004
+border rejection;non-compliance to standards;poor or insufficient controls > non-compliance to standards;china;24-3-2004
+border rejection;missing required nutrition information, incorrect labeling, labelling/misdescription;labelling/misdescription > insufficient labelling/documentation > missing required nutrition information, labelling/misdescription > incorrect labeling, labelling/misdescription;france;24-3-2004
+border rejection;unauthorised colour;unauthorised colour;lebanon;12-3-2004
+border rejection;pesticides;pesticides;peru;16-1-2004
+border rejection;unauthorised colour;unauthorised colour;china;7-1-2004
+border rejection;pesticides;pesticides;ecuador;29-10-2003
+border rejection;pesticides;pesticides;canada;22-10-2003
+border rejection;pesticides;pesticides;china;13-10-2003
+border rejection;pesticides;pesticides;poland;8-7-2003
+border rejection;pesticides;pesticides;poland;6-6-2003
+border rejection;pesticides;pesticides;poland;2-6-2003
+border rejection;pesticides;pesticides;poland;14-5-2003
+border rejection;pesticides;pesticides;poland;14-5-2003
+border rejection;pesticides;pesticides;poland;6-5-2003
+border rejection;pesticides;pesticides;poland;27-2-2003
+border rejection;pesticides;pesticides;poland;24-2-2003
+border rejection;pesticides;pesticides;poland;21-2-2003
+border rejection;pesticides;pesticides;poland;21-2-2003
+border rejection;pesticides;pesticides;poland;21-2-2003
+border rejection;pesticides;pesticides;poland;31-1-2003
+border rejection;pesticides;pesticides;poland;15-1-2003
+border rejection;pesticides;pesticides;poland;2-12-2002
+border rejection;pesticides;pesticides;poland;27-11-2002
+border rejection;pesticides;pesticides;poland;15-11-2002
+border rejection;pesticides;pesticides;netherlands;12-11-2002
+border rejection;pesticides;pesticides;poland;30-10-2002
+border rejection;pesticides;pesticides;poland;22-10-2002
+border rejection;pesticides;pesticides;mexico;20-5-2002
+border rejection;pesticides;pesticides;poland;10-5-2002
+border rejection;missing required nutrition information, insufficient labelling/documentation;labelling/misdescription > insufficient labelling/documentation > missing required nutrition information, labelling/misdescription > insufficient labelling/documentation;poland;9-5-2002
+border rejection;pesticides;pesticides;mexico;15-4-2002
+border rejection;pesticides;pesticides;netherlands;1-2-2002
